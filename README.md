@@ -15,3 +15,4 @@
 #
 ## Quản trị viên:
 - Cảm ơn bạn đã sử dụng công cụ của tôi
+- ✠ If you copy , Then Give me The Credits ✠
