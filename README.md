@@ -4,7 +4,7 @@
 ## Tải về:
 - 1 : `sudo apt-get install python3 python3-pip git`
 - 2 : `pip3 install requests colorama pysocks`
-- 3 : `https://github.com/giaquy208/Socker-DDoS.git`
+- 3 : `git clone https://github.com/giaquy208/Socker-DDoS.git`
 #
 ## Sử dụng:
 - 1 : `cd Socker-DDoS`
